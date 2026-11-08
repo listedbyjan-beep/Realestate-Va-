@@ -6,14 +6,16 @@
 Proof points (fill in with real numbers):
 - `[# HOMES SOLD]` homes sold, average `[X]`% of list price, `[X]` average days on market
 - `[REVIEW COUNT]` five-star reviews
-- Local roots in `[CITY/COUNTY]`, plus a full marketing package on every listing (pro photos, video, social launch)
+- Local roots across San Diego County (`[YOUR CORE NEIGHBORHOODS]`), plus a full marketing package on every listing (pro photos, video, social launch)
 
 ## 2. Who we're targeting
 | Segment | Their situation | Main worry | Our offer |
 |---|---|---|---|
 | **Move-up / move-down sellers** | Equity-rich homeowners who have outgrown their home or are downsizing | "What's my home worth, and can I time the buy and sell?" | Free home valuation plus a sell-then-buy plan |
 | **First-time buyers** | Renters paying `$[X]`+/month | "Can I afford it? Is now the time?" | First-time buyer workshop or guide, plus a lender intro |
-| **Relocation / military** (VA has a large military and federal workforce) | PCS orders, new job | "I need to buy remotely, fast" | Virtual tours, relocation guide, VA-loan know-how |
+| **Military relocation** (Naval Base San Diego, NAS North Island, MCAS Miramar, Camp Pendleton) | PCS orders, BAH budget | "I need to buy remotely, fast" | Virtual tours, BAH-to-mortgage guide, VA-loan know-how |
+| **Out-of-state relocation** (biotech, defense, tech, remote workers) | New job, lifestyle move | "Which neighborhood fits me, and what does it cost?" | San Diego neighborhood guide plus virtual tours |
+| **ADU / house-hack owners and buyers** | Want rental income or room for family | "Can I add an ADU, and does it pay off?" | ADU-potential home search and an ADU-value guide |
 | **Expired / FSBO sellers** | Their listing didn't sell | "The last agent failed me" | A second-opinion marketing plan |
 | **Investors** | Want cash flow or rehab properties | "Where are the deals?" | Weekly off-market and value-add list |
 | **Past clients & sphere** | Already trust Jan | Nothing yet. Keep Jan top of mind | Home anniversary updates, referral rewards where legal |
@@ -39,13 +41,17 @@ Example monthly budgets. Scale up whatever produces the lowest cost per *qualifi
 | YouTube / CTV local | Brand awareness | n/a | $300 | $800 |
 | Zillow/Realtor.com, or direct mail to listings | Supplemental | n/a | $200 | $700 |
 
+**San Diego note:** a large share of the county speaks Spanish at home. If you or your team speak Spanish, run Campaigns 1 and 2 in Spanish too; competition is lower and lead costs are often cheaper. Only advertise bilingual service you can actually provide.
+
+With San Diego price points, a single closing typically pays for many months of ads, so judge results on cost per *signed client*, not just cost per lead.
+
 Rule of thumb: about **60% on lead generation, 25% on retargeting, 15% on brand**.
 
 ## 5. KPIs and targets
 | Metric | Starting target (adjust after 30 days) |
 |---|---|
-| Cost per lead, Meta lead form | $8–$25 buyer, $20–$60 seller |
-| Cost per lead, Google Search | $30–$90 |
+| Cost per lead, Meta lead form | $10–$30 buyer, $25–$75 seller (San Diego is pricier than the national average) |
+| Cost per lead, Google Search | $40–$120 |
 | Landing page conversion rate | 8%+ (valuation page), 15%+ (guide download) |
 | Speed to lead | **Under 5 minutes** (the biggest lever you control) |
 | Lead → appointment | 10–15% |
