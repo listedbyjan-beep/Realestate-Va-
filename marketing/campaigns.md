@@ -41,8 +41,8 @@ Each campaign below is ready to brief a designer or to build in Ads Manager or G
 **Hooks**
 1. "You're paying `$[X]`/month in rent. Here's what that could buy in San Diego County."
 2. "Down payment help most San Diego buyers don't know about." (e.g., CalHFA programs, the San Diego Housing Commission and County of San Diego first-time buyer programs. Check current availability, limits and funding before publishing.)
-4. "Where first-time buyers can still get in: condos and townhomes in `[NEIGHBORHOOD]`."
-3. "Your credit score doesn't have to be perfect. Here's what lenders actually look at."
+4. "Your credit score doesn't have to be perfect. Here's what lenders actually look at."
+3. "Where first-time buyers can still get in: condos and townhomes in `[NEIGHBORHOOD]`."
 
 **Primary text**
 > Renting in San Diego? Your monthly rent might already cover a mortgage payment. 👀
